@@ -7,7 +7,25 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 18 Jul 2023 15:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 15:18:01 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+                                                                                  
+                
+
+                                  NEW
+                                                ビーボーイゴールド 2023年8月号【電子限定外岡もったす先生ネーム付】
+              ]]></title>
+      <link>https://www.cmoa.jp/title/133477/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770321.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -16,11 +34,11 @@
 
                                                 ビーボーイゴールド 2023年6月号【電子限定やまねあやの先生ネーム付】
               ]]></title>
-      <link>https://www.cmoa.jp/title/133477/</link>
+      <link>https://www.cmoa.jp/title/133477/vol/320/</link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/</guid>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/320/</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770320.jpg" length="0" type="image/jpeg"/>
       
@@ -159,23 +177,6 @@
       <guid isPermaLink="true">urn:sha1:882b8760313e22336ca8030983190fc4d093e3eb</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770312.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-                                                                                  
-                
-
-                                                ビーボーイゴールド 2021年12月号【電子限定池 玲文先生表紙別案ラフ付】
-              ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:ce612b8928f972e5e6f7bea5e5027271c77eec22</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770311.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
