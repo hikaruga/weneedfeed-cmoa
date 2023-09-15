@@ -7,7 +7,25 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Thu, 14 Sep 2023 15:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 15:17:12 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+                                                                                  
+                
+
+                                                  発売予定
+                                ビーボーイゴールド 2023年10月号【電子限定ためこう先生ネーム付】
+              ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/322/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/322/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770322.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -159,23 +177,6 @@
       <guid isPermaLink="true">urn:sha1:dbbb60c3ed98bb36dda1979d4092e178a8fe4267</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770313.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-                                                                                  
-                
-
-                                                ビーボーイゴールド 2022年2月号【電子限定やまねあやの先生ネーム付】
-              ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:882b8760313e22336ca8030983190fc4d093e3eb</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770312.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
