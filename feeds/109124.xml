@@ -7,7 +7,25 @@
     <link>https://www.cmoa.jp/title/109124/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Thu, 28 Sep 2023 15:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 15:17:27 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+                                                                                  
+                
+
+                                  NEW
+                                                【電子版】CIEL 2023年11月号
+              ]]></title>
+      <link>https://www.cmoa.jp/title/109124/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240045.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -16,11 +34,11 @@
 
                                                 【電子版】CIEL 2023年9月号
               ]]></title>
-      <link>https://www.cmoa.jp/title/109124/</link>
+      <link>https://www.cmoa.jp/title/109124/vol/44/</link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/</guid>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/vol/44/</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240044.jpg" length="0" type="image/jpeg"/>
       
@@ -159,23 +177,6 @@
       <guid isPermaLink="true">urn:sha1:0ac73f43d81b0349b9aed66cadfe77b2bb012ea0</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240036.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-                                                                                  
-                
-
-                                                【電子版】CIEL 2022年3月号
-              ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:749cab2abb43034c868a2dc925bf412f861d7535</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240035.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
