@@ -7,7 +7,23 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 15 Jan 2024 15:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 15:18:17 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+              
+                                            発売予定
+                            ビーボーイゴールド 2024年2月号【電子限定池 玲文先生表紙別案ラフ付】
+            ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/324/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/324/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770324.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -141,21 +157,6 @@
       <guid isPermaLink="true">urn:sha1:2b57136e1e1b708ab55c9d7aec1f50dcc52f158d</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770315.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-              
-                                          ビーボーイゴールド 2022年6月号【電子限定user先生ネーム付】
-            ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:2c9ff1b89c20b69c6ddae489c2d0bd20167ec8c8</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770314.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
