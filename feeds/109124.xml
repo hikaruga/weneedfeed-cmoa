@@ -7,12 +7,11 @@
     <link>https://www.cmoa.jp/title/109124/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 28 Feb 2024 15:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:16:45 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
               
-                              NEW
                                           【電子版】CIEL 2024年3月号
             ]]></title>
       <link>https://www.cmoa.jp/title/109124/</link>
@@ -90,11 +89,11 @@
               
                                           【電子版】CIEL 2023年5月号
             ]]></title>
-      <link>https://www.cmoa.jp/title/109124/vol/42/</link>
+      <link></link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/vol/42/</guid>
+      <guid isPermaLink="true">urn:sha1:4ff6dddb536797b017635c7f2ca504a5c32b49ff</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240042.jpg" length="0" type="image/jpeg"/>
       
