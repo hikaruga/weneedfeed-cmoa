@@ -7,18 +7,34 @@
     <link>https://www.cmoa.jp/title/109124/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 29 May 2024 15:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 15:19:49 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
               
-                                          【電子版】CIEL 2024年5月号
+                              NEW
+                                          【電子版】CIEL 2024年7月号
             ]]></title>
       <link>https://www.cmoa.jp/title/109124/</link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.cmoa.jp/title/109124/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240049.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+              
+                                          【電子版】CIEL 2024年5月号
+            ]]></title>
+      <link>https://www.cmoa.jp/title/109124/vol/48/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/vol/48/</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240048.jpg" length="0" type="image/jpeg"/>
       
@@ -141,21 +157,6 @@
       <guid isPermaLink="true">urn:sha1:da2e2c853517c31faba4e7bed81d4aebe8f4f1fd</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240040.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-              
-                                          【電子版】CIEL 2022年11月号
-            ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:0f624ffcc062f2506a877e5748cf2b8396c77354</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240039.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
