@@ -7,7 +7,23 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Fri, 11 Jul 2025 15:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 15:24:43 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+              
+                                            発売予定
+                            ビーボーイゴールド 2025年8月号【電子限定やまねあやの先生ネーム付】
+            ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/333/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/333/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770333.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -141,21 +157,6 @@
       <guid isPermaLink="true">urn:sha1:e4dd9daf1f2da81dbfbdf84135b015876867a554</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770324.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-              
-                                          ビーボーイゴールド 2023年12月号【電子限定参号ミツル先生ネーム付】
-            ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:98f3883117afad0d255c8c80af94946cc6208449</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770323.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
