@@ -7,7 +7,23 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Wed, 10 Sep 2025 15:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 15:21:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+              
+                                            発売予定
+                            ビーボーイゴールド 2025年10月号【電子限定宇良たまじ先生ネーム付】
+            ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/334/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/334/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770334.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -141,21 +157,6 @@
       <guid isPermaLink="true">urn:sha1:476e1f9fa0ad7929e40f3cb6a071eab2e7585d12</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770325.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-              
-                                          ビーボーイゴールド 2024年2月号【電子限定池 玲文先生表紙別案ラフ付】
-            ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:e4dd9daf1f2da81dbfbdf84135b015876867a554</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770324.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
