@@ -7,7 +7,7 @@
     <link>https://www.cmoa.jp/title/109124/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/109124.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 30 Dec 2025 15:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 15:27:08 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
@@ -89,11 +89,11 @@
               
                                           【電子版】CIEL 2025年3月号
             ]]></title>
-      <link>https://www.cmoa.jp/title/109124/vol/53/</link>
+      <link></link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">https://www.cmoa.jp/title/109124/vol/53/</guid>
+      <guid isPermaLink="true">urn:sha1:463d2af1c7eb022cf09edc380d48bf484a1be170</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000109124/VOLUME/100001091240053.jpg" length="0" type="image/jpeg"/>
       
