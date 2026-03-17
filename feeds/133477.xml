@@ -7,7 +7,23 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Mon, 16 Mar 2026 16:09:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 16:09:48 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[
+              
+                                            発売予定
+                            ビーボーイゴールド 2026年4月号【電子限定雲田はるこ先生ネーム付】
+            ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/337/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/337/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770337.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[
@@ -141,21 +157,6 @@
       <guid isPermaLink="true">urn:sha1:400d0a23040312aaa33d4c4337c8e8ee9c91e1b7</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770328.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-              
-                                          ビーボーイゴールド 2024年8月号【電子限定外岡もったす先生ネーム付】
-            ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:d7f668fd67b66874d278f0464947b3ffeb0c889c</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770327.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
