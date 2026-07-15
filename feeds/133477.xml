@@ -7,18 +7,33 @@
     <link>https://www.cmoa.jp/title/133477/</link>
     <atom:link href="https://hikaruga.github.io/weneedfeed-cmoa/feeds/133477.xml" rel="self"/>
     <description><![CDATA[]]></description>
-    <lastBuildDate>Tue, 14 Jul 2026 16:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:26:50 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[
             
-                ビーボーイゴールド 2026年6月号【電子限定外岡もったす先生ネーム付】            
+                NEWビーボーイゴールド 2026年8月号            
         ]]></title>
       <link>https://www.cmoa.jp/title/133477/</link>
       
       <description><![CDATA[]]></description>
       <content:encoded><![CDATA[]]></content:encoded>
       <guid isPermaLink="true">https://www.cmoa.jp/title/133477/</guid>
+      
+        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770339.jpg" length="0" type="image/jpeg"/>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[
+            
+                ビーボーイゴールド 2026年6月号【電子限定外岡もったす先生ネーム付】            
+        ]]></title>
+      <link>https://www.cmoa.jp/title/133477/vol/338/</link>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmoa.jp/title/133477/vol/338/</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770338.jpg" length="0" type="image/jpeg"/>
       
@@ -141,21 +156,6 @@
       <guid isPermaLink="true">urn:sha1:bea28fe12392ae0b78a59b4aa66aeee318c693df</guid>
       
         <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770330.jpg" length="0" type="image/jpeg"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[
-            
-                ビーボーイゴールド 2024年12月号【電子限定高城リョウ先生ネーム付】            
-        ]]></title>
-      <link></link>
-      
-      <description><![CDATA[]]></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <guid isPermaLink="true">urn:sha1:1878a0f5723b0c0c017d34062c091a7ba009fab5</guid>
-      
-        <enclosure url="https://cmoa.akamaized.net/data/image/title/title_0000133477/VOLUME/100001334770329.jpg" length="0" type="image/jpeg"/>
       
     </item>
     
